@@ -2,7 +2,8 @@
 
 
 # Hello! 👋
-- :alien: Clara, Brazilian
+- :alien: Clara
+- 📍Brazil
 - [Pinned Repos](https://github.com/stars/mclaramarinho/lists/portfolio)
 
 ### I have knowledge in...
