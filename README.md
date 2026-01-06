@@ -2,7 +2,8 @@
 
 
 # Hello! 👋
-- :alien: Clara, Brazilian, 22yo
+- :alien: Clara, Brazilian
+- [Pinned Repos](https://github.com/stars/mclaramarinho/lists/portfolio)
 
 ### I have knowledge in...
 <div style="display: flex">
